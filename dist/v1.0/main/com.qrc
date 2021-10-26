@@ -1,8 +1,0 @@
-<RCC>
-  <qresource>
-    <file>girl.jpg</file>
-  </qresource>
-  <qresource prefix="新前缀">
-    <file>girl.jpg</file>
-  </qresource>
-</RCC>
